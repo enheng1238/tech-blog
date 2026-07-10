@@ -77,7 +77,7 @@ RAG 工作流程可以概括为三个步骤：
 
 ### 1. 本地 RAG：你的数据不出家门 🏠
 
-这是 2026 年最火热的方向之一。"Ask HN: How are you doing RAG locally?" 这个帖子在 Hacker News 上获得了 400 多个点赞。
+这是 2026 年最火热的方向之一。"Ask HN: How are you doing RAG locally?" 这个帖子在 Hacker News 上获得了 413 个点赞。
 
 很多企业、律所、医疗机构对数据隐私有严格要求，不能把文件上传到云端。于是，**完全在本地运行 RAG** 成为刚需。
 
